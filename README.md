@@ -40,21 +40,12 @@ This repository contains the data analysis and visualization work for Instacart,
 
 ## Repository Contents
 
-- `Notebooks/`: Jupyter notebooks containing the analysis scripts.
-- `Visualizations/`: Charts and graphs illustrating the results.
 - `Report/`: The final report template completed with analysis details.
-- `Scripts/`: Python scripts used for data wrangling and analysis.
+
 
 ## Getting Started
 
-1. **Explore the Jupyter Notebooks**:
-    - Open the `Notebooks/` folder to review the data analysis steps.
-    - Each notebook is well-documented with markdown cells explaining the process.
-
-2. **View the Visualizations**:
-    - Check the `Visualizations/` folder for charts and graphs that provide insights into customer behavior.
-
-3. **Read the Final Report**:
+1. **Read the Final Report**:
     - The `Report/` folder contains the comprehensive report that details the entire analysis process and findings.
 
 ## Usage
